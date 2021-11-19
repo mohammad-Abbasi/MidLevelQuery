@@ -1,2 +1,2 @@
 # MidLevelQuery
-This porject created to practice some simple query thechniques with django ORM.
+This project is created to practice some simple query techniques with Django ORM.
